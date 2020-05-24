@@ -1,3 +1,5 @@
+Ttranscript of the presentation:
+
 Hello!
 
 My name is Pavel
@@ -62,4 +64,4 @@ All that functionality is included and hidden in Angular and works automatically
 
 Using Angular makes your life a lot easier.
 
-Thank you# presentation-deploy
+Thank you!
